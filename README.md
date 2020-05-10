@@ -11,5 +11,5 @@ Do not upload to production due to XSS vulnerability.
 (検証済み)  
 Ubuntu 18.04  
 (要件)  
-PHP 7系
+PHP 7系     
 MySQL
